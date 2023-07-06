@@ -1,0 +1,3 @@
+Jun 11 2023 12:27:00
+{"Number":16384,"Message":"The PSR-0 `Requests_...` class names in the Request library are deprecated. Switch to the PSR-4 `WpOrg\\Requests\\...` class names at your earliest convenience.","File":"C:\\xampp\\htdocs\\demo-ecommerce\\wp-includes\\Requests\\src\\Autoload.php","Line":171}
+

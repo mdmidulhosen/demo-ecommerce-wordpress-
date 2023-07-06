@@ -1,0 +1,59 @@
+{
+    "packages": [
+        {
+            "name": "heymehedi/edd-sl-plugin-updater",
+            "version": "v1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/HeyMehedi/EDD-SL-Plugin-Updater.git",
+                "reference": "c61eaf4d57fbeb6eed5a5275833aeba7e7bf9522"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/HeyMehedi/EDD-SL-Plugin-Updater/zipball/c61eaf4d57fbeb6eed5a5275833aeba7e7bf9522",
+                "reference": "c61eaf4d57fbeb6eed5a5275833aeba7e7bf9522",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.6.20"
+            },
+            "time": "2023-06-10T01:49:29+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "EDD_SL_Plugin_Updater.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "EasyDigitalDownloads",
+                    "email": "contact@easydigitaldownloads.com"
+                },
+                {
+                    "name": "HeyMehedi",
+                    "email": "meehdi.2800@gmail.com"
+                }
+            ],
+            "description": "EDD Updates Handler for WordPress Plugins",
+            "keywords": [
+                "edd",
+                "updates",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/HeyMehedi/EDD-SL-Plugin-Updater/issues",
+                "source": "https://github.com/HeyMehedi/EDD-SL-Plugin-Updater/tree/v1.0.0"
+            },
+            "install-path": "../heymehedi/edd-sl-plugin-updater"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

@@ -1,0 +1,1 @@
+Login Me Now – A simple and user-friendly plugin to Login Directly to Dashboard from [Login Me Now Chrome Extension](https://chrome.google.com/webstore/detail/login-me-now/kkkofomlfhbepmpiplggmfpomdnkljoh)

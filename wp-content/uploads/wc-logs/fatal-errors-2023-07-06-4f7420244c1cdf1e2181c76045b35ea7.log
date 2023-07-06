@@ -1,0 +1,9 @@
+2023-07-06T11:20:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Login_Me_Now\CRON_Jobs::purge_old_records(), 0 passed in C:\xampp\htdocs\demo-ecommerce\wp-includes\class-wp-hook.php on line 308 and exactly 1 expected in C:\xampp\htdocs\demo-ecommerce\wp-content\plugins\login-me-now\admin\includes\class-cron-jobs.php:75
+Stack trace:
+#0 C:\xampp\htdocs\demo-ecommerce\wp-includes\class-wp-hook.php(308): Login_Me_Now\CRON_Jobs->purge_old_records()
+#1 C:\xampp\htdocs\demo-ecommerce\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\demo-ecommerce\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\demo-ecommerce\wp-cron.php(188): do_action_ref_array('login-me-now-pu...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\demo-ecommerce\wp-content\plugins\login-me-now\admin\includes\class-cron-jobs.php on line 75
+

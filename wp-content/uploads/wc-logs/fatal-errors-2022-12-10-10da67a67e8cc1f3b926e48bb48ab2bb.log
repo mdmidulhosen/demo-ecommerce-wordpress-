@@ -1,0 +1,6 @@
+2022-12-10T13:04:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\betheme\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-12-10T16:07:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\betheme\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-12-10T16:19:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\betheme\wp-includes\class-wpdb.php on line 2187
+

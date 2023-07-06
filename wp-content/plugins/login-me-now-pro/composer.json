@@ -1,0 +1,5 @@
+{
+    "require": {
+        "heymehedi/edd-sl-plugin-updater": "^1.0"
+    }
+}
